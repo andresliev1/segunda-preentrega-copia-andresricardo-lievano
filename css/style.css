@@ -14,8 +14,8 @@ body {
   height: 200px;
 }
 
-.header {
-  background-color: black;
+.col-nav {
+  background-color: rgb(12, 18, 20);
   text-align: center;
   border: 12px;
   width: 100%;
